@@ -12,3 +12,5 @@ describe('When Angular starting page is loaded', () => {
     cy.contains('.terminal', 'ng add @angular/material');
   });
 });
+
+
