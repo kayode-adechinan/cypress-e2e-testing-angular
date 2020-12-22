@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/kayode-adechinan/cypress-e2e-testing-angular.svg?style=svg)](https://circleci.com/gh/kayode-adechinan/cypress-e2e-testing-angular)
+
+
 # Tutorial
 
 https://dev.to/angular/ci-ready-e2e-tests-for-angular-with-cypress-and-typescript-in-under-60-minutes-4f30
