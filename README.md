@@ -1,15 +1,14 @@
-[![CircleCI](https://circleci.com/gh/kayode-adechinan/cypress-e2e-testing-angular.svg?style=svg)](https://circleci.com/gh/kayode-adechinan/cypress-e2e-testing-angular)
+<p align="left" >
+  <a href="https://circleci.com/gh/kayode-adechinan/cypress-e2e-testing-angular">
+    <img src="https://circleci.com/gh/kayode-adechinan/cypress-e2e-testing-angular/tree/master.svg?style=shield" />
+  </a>
+</p>
 
 
 # Tutorial
 
 https://dev.to/angular/ci-ready-e2e-tests-for-angular-with-cypress-and-typescript-in-under-60-minutes-4f30
 
-<p align="center" >
-  <a href="https://circleci.com/gh/MrCube42/cypress-e2e-testing-angular">
-    <img src="https://circleci.com/gh/MrCube42/cypress-e2e-testing-angular/tree/master.svg?style=shield" />
-  </a>
-</p>
 
 # CypressE2eTestingAngular
 
